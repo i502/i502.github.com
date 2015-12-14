@@ -10,7 +10,7 @@
 
 **粗体测试**
 
-hello[^hello]
+hello[^aaaaa]
 
 [^hello]: hi
 
