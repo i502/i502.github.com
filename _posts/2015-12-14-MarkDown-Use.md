@@ -10,6 +10,10 @@
 
 **粗体测试**
 
+hello[^hello]
+
+[^hello]: hi
+
 `<blockquote>`
 
 1. dddd
