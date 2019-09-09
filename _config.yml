@@ -10,8 +10,8 @@ paginate: 8
 paginate_path: "page:num"
 
 # presonal config
-title: Steven Pan's Blog
-description: Steven Pan's Blog, powered by Jekyll...
+title: I502's Blog
+description: I502's Blog, powered by I502...
 feed: http://www.winfirm.cn/atom.xml
 
 author: Steven Pan
