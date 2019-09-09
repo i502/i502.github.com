@@ -1,4 +1,4 @@
-i502
+i502.github.com
 ================
 
 Personal Blog powered by Jekyll&amp;Gitpage! http://www.apkfun.cn
